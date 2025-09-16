@@ -1,0 +1,60 @@
+{
+  "category": "miscellaneous",
+  "created_date": "2025-09-15T22:48:58.879326",
+  "default_ports": [
+    80,
+    443
+  ],
+  "dependencies": [],
+  "description": "rclone is a free and open-source cloud storage sync tool. Rclone provides command-line sync for various cloud storage services",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/miscellaneous/rclone",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/miscellaneous/rclone",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:58.879347",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "rclone",
+  "repository_url": "https://github.com/howtomgr/rclone",
+  "spec_version": "2.0",
+  "subcategory": "miscellaneous",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "miscellaneous",
+    "containerization",
+    "observability",
+    "data-storage",
+    "networking",
+    "security",
+    "data-protection"
+  ],
+  "title": "rclone Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/miscellaneous/rclone"
+}
